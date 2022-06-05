@@ -3,7 +3,7 @@
 Consider a small binary image (or matrix) that is represented as a list of lists which contains
 only the numbers 0 or 1, e.g.,
 <br>
-<img src=https://github.com/Mohammedshaad99/Functional-Programming-through-Haskell/tree/main/image/image.jpeg></img>
+<img src=https://github.com/Mohammedshaad99/Functional-Programming-through-Haskell/blob/main/image/image.jpeg></img>
 <br>
 We wish to find the number of pixels in the largest connected component of such images
 (there can of course be more than one component with the same largest number). A connected component is a cluster of pixels that contain the same value and there is a path from
